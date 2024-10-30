@@ -1,6 +1,6 @@
 name: my_package_122
 description: "This package is a private package for my own use."
-version: 0.0.2
+version: 0.0.4
 homepage: https://github.com/yourusername/my_package_122
 
 environment:
